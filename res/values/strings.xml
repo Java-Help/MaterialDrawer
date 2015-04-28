@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MaterialDrawer</string>
+
+    <string name="drawer_item_home">Главная </string>
+    <string name="drawer_item_free_play">Free Play</string>
+    <string name="drawer_item_custom">Кастомный</string>
+    <string name="drawer_item_section_header">Разделитель</string>
+    <string name="drawer_item_settings">Настройки</string>
+    <string name="drawer_item_help">Помощь</string>
+    <string name="drawer_item_open_source">Open Source</string>
+    <string name="drawer_item_contact">Обратная связь</string>
+</resources>
